@@ -1,7 +1,7 @@
 CircularReveal
 ==============
 
-Lollipop ViewAnimationUtils.createCircularReveal for everyone 2.3+
+Lollipop ViewAnimationUtils.createCircularReveal for everyone 4.0.3+
 
 <img src="http://7sbnrp.com1.z0.glb.clouddn.com/lollipop2-CircularReveal.gif" />
 
